@@ -1,0 +1,47 @@
+body {
+    background-color: rgba(66, 65, 65, 0.842);
+    color: antiquewhite;
+}
+
+header {
+    background-color: rgb(47, 47, 48);
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header div {
+    align-items: center;
+    display: flex;
+    margin-left: 10px;
+}
+
+.logo {
+    padding: 15px;
+    background-color: purple;
+    border-radius: 100%;
+    cursor: pointer;
+}
+
+.cadeado_img {
+    width: 30px;
+}
+
+.tt_infra {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    margin-left: 10px;
+    color: purple;
+}
+
+.tt_tec {
+    color: rgb(143, 141, 141);
+}
+
+.menu {
+    width: 30px;
+    margin-right: 20px;
+    cursor: pointer;
+}
